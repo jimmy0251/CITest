@@ -1,3 +1,4 @@
+
 package com.jimmy.citest;
 
 import android.os.Bundle;
@@ -11,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-	//Add Test comment
+	//Add Test comment2
     }
 
     @Override
